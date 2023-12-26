@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+*.xml
+.idea/uiDesigner.xml
+.idea/uiDesigner.xml
